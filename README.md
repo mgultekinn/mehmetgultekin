@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">Solution Architect and Engineering Manager at HuaweiHuawei Technologies Co. Ltd.</h3>
+<h3 align="center">Solution Architect and Engineering Manager at Huawei Technologies Co. Ltd.</h3>
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
